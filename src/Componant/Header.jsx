@@ -6,6 +6,7 @@ const Header = () => {
         <nav className='bg-red-400 flex justify-between px-8  text-3xl'>
             <Link to="/">Home</Link>
             <Link to="/order">Order Review</Link>
+            <Link to="/grandpa">Grandpa</Link>
             <Link to="/About">About</Link>
             <Link to="/contact">Contact</Link>
         </nav>
